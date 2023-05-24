@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("vinto.gif");
+}
+
+.container_luar {
+  border-radius: 5px;
+  padding: 3px;
+  position: relative;
+  padding-bottom: 30px;
+  background-color: #1995ad;
+}
+
+h1 {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 5px;
+  padding: 7px;
+  padding-left: 25px;
+  font-weight: bolsd;
+  background-color: #4b9acf;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #f1f1f2;
+  text-align: center;
+  font-size: larger;
+  color: rgb(24, 8, 8);
+}
+
+table {
+  text-align: center;
+  margin: 5px;
+  padding: 10px;
+  background-color: #f1f1f2;
+  margin: 100px auto;
+  border: 5px rgb(255, 255, 255);
+  width: 100px;
+  height: 100px;
+}
+
+table td {
+  padding: 0px;
+  background-color: #ffffff;
+  width: 10px;
+  height: 10px;
+  text-align: center;
+}
+
+button {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+  padding-left: 10px;
+  font-weight: bold;
+  background-color: #4b9acf;
+  display: block;
+  margin: 5px auto;
+  background-color: aquamarine;
+}
+
+p#result {
+  text-align: center;
+  font-weight: bold;
+}
